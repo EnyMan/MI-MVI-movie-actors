@@ -1,5 +1,7 @@
 # Movie Actors Detector
 
+Webová aplikace na detekci herců ve filmech a zobrazovaní statistik o nich
+
 VSTUP:
   - Film ve formátu `.avi`
   - Volitelně seznam herců které chceme ve filmu detekovat
