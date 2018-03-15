@@ -1,4 +1,4 @@
-# MI-MVI-movie-actors
+# Movie Actors Detector
 
 VSTUP:
   - Film ve formátu `.avi`
